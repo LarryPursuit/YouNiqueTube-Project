@@ -21,7 +21,11 @@ So, whether you're a budding artist, an avid vlogger, or a passionate storytelle
 Trello [Trello](https://trello.com/invite/b/trhTkYXb/ATTI2b909eb3200b72b8de0c3385c302885bEC1432B3/youtube-project)
 
 Here's the code [Github](https://github.com/LarryPursuit/YouNiqueTube-Project)
+
+<br />
 Github link [Mussie-Russom](https://github.com/MossRoss)
+
+<br />
 Deployed Site [YouNiqueTube](https://youniquetube.netlify.app)
 
 ## Preview
