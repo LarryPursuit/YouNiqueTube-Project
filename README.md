@@ -22,6 +22,7 @@ Trello [Trello](https://trello.com/invite/b/trhTkYXb/ATTI2b909eb3200b72b8de0c338
 
 Here's the code [Github](https://github.com/LarryPursuit/YouNiqueTube-Project)
 Github link [Mussie-Russom](https://github.com/MossRoss)
+Deployed Site [YouNiqueTube](https://youniquetube.netlify.app)
 
 ## Preview
 
